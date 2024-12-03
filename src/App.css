@@ -1,0 +1,15 @@
+.app {
+  display: grid;
+  width: 1200px;
+  margin: 0 auto;
+  grid-template-areas:
+  "h h"
+  "n c";
+  grid-template-rows: 120px 1fr;
+  grid-template-columns: 1fr 5fr;
+}
+
+.app-content {
+    grid-area: c;
+    background-color:rgb(173, 123, 142);
+}

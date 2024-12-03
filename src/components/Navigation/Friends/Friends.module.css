@@ -1,0 +1,14 @@
+.friends {
+    margin-top: 1em;
+    width: 100%;
+}
+
+.friendsData {
+    margin-top: 5px;
+    display: flex;
+}
+
+.item {
+    color: crimson;
+    text-decoration: none;
+}

@@ -1,0 +1,49 @@
+.block {
+    margin: 10px;
+}
+
+.photo {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.user {
+    padding: 10px;
+    display: flex;
+    height: 100%;
+}
+
+.info {
+    position: relative;
+    margin: 10px;
+    width: 700px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.name {
+    position: absolute;
+    top: 2px;
+    left: 10px;
+}
+
+.message {
+    position: absolute;
+    bottom: 2px;
+    left: 10px;
+}
+
+.location {
+    position: absolute;
+    text-align: right;
+    top: 2px;
+    right: 10px;
+    font-size: 1.5em;
+}
+
+.button {
+    display: block;
+    position: relative;
+    width: 80px;
+    left: 15px;
+}

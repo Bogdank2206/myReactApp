@@ -1,0 +1,36 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    padding: 20px;
+    font-size: 24px;
+}
+
+.users {
+    margin: 10px 0;
+}
+
+.users .user {
+    padding: 10px;
+    color: black;
+}
+
+.user a {
+    color: black;
+    text-decoration: none;
+}
+
+.user a.active {
+    color:white;
+}
+
+.users .active {
+    color: white;
+}
+
+.messages {
+    margin: 10px 0;
+}
+
+.messages .message {
+    padding: 10px;
+}

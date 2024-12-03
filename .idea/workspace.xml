@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b470944e-bb22-4758-a136-4d3c34680bf0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSX File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/App.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2p7icdpnjyAz39Jq691rxcnCX9v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.App.js.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Bogdan/Desktop/ReactProjects/my-app/src/components/Profile/MyPosts/ProfileInfo",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bogdan\Desktop\ReactProjects\my-app\src\components\Profile\MyPosts\ProfileInfo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bogdan\Desktop\ReactProjects\my-app\src\components\Dialogs\Dialogs" />
+      <recent name="C:\Users\Bogdan\Desktop\ReactProjects\my-app\src\components\Profile\MyPosts\MyPosts" />
+      <recent name="C:\Users\Bogdan\Desktop\ReactProjects\my-app\src\components\Profile" />
+      <recent name="C:\Users\Bogdan\Desktop\ReactProjects\my-app\src\components\Profile\Profile" />
+      <recent name="C:\Users\Bogdan\Desktop\ReactProjects\my-app\src\components\Profile\MyPosts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/App.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.App.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b470944e-bb22-4758-a136-4d3c34680bf0" name="Changes" comment="" />
+      <created>1732123595407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732123595407</updated>
+      <workItem from="1732123596763" duration="3613000" />
+      <workItem from="1732127288732" duration="673000" />
+      <workItem from="1732127985373" duration="194000" />
+      <workItem from="1732128969089" duration="5005000" />
+      <workItem from="1732207480741" duration="5917000" />
+      <workItem from="1732214546995" duration="436000" />
+      <workItem from="1732295062838" duration="2070000" />
+      <workItem from="1732435375488" duration="20225000" />
+      <workItem from="1732526639778" duration="5849000" />
+      <workItem from="1732534818491" duration="1318000" />
+      <workItem from="1732537309299" duration="5444000" />
+      <workItem from="1733040394436" duration="4448000" />
+      <workItem from="1733059049771" duration="10695000" />
+      <workItem from="1733223317571" duration="113000" />
+      <workItem from="1733223442156" duration="4217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
